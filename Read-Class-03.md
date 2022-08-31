@@ -1,4 +1,5 @@
-Fabio Alvarez										Aug 31,2022
+Fabio Alvarez									
+Aug 31,2022
 
 Active directory is a centralized management service, meant for system administrators. It is supported by the Microsoft server OS. 
 It can be used to do many things including, but not limited to setting up a DNS server, configuring users writing a domain, configuring groups of users to streamline the process of integrating new employees on board.
