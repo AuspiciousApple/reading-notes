@@ -1,4 +1,4 @@
-Fabio Alvarez									
+Fabio Alvarez
 Aug 31,2022
 
 Active directory is a centralized management service, meant for system administrators. It is supported by the Microsoft server OS. 
