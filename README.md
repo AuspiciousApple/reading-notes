@@ -12,7 +12,7 @@ Module 1
 Module 2
 - [Class 06 Reading Notes](Read-Class-06.md)
 - [Class 07 Reading Notes](Read-Class-07.md)
-- [Class 08 Reading Notes](Read-Class-01.md)
+- [Class 08 Reading Notes](Read-Class-08.md)
 - [Class 09 Reading Notes](Read-Class-01.md)
 - [Class 10 Reading Notes](Read-Class-01.md)
 
