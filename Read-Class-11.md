@@ -1,0 +1,3 @@
+Fabio Alvarez										Sep 13, 2022
+
+NAT allows for multiple devices within the private range of class a, class b or class c (the most common one seen by most users) to access the internet without needing a dedicated public ip address. This is very useful to conserve ip addresses, in a place where we are seemingly running out of possible ips because everyone has multiple devices that connect to the internet. NATs come in various shapes and sizes, such as: dynamic, static, and PAT. Each of these has its time and place use. Careful consideration should be taken when deciding what kind of NAT to use.
