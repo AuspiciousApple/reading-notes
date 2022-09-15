@@ -1,0 +1,3 @@
+Fabio Alvarez										Sep 14, 2022
+
+They’re are various ways to monitor traffic. Two of the most common ones are port mirroring also known as SPAN, and network TAP. In a SPAN or port mirroring all packets, incoming and outgoing, are sent to a different port and kept in a log to save for review at a later day. One advantage of port mirroring is the fact that it is lost cost as most switches possess this capability. A disadvantage of port mirroring would be the fact that it uses a lot of physical resources. One advantage of TAP is the fact that there is no risk of losing packets. On the other hand the drawback is that implementing this can be very costly. 
