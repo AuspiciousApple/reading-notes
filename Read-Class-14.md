@@ -1,1 +1,3 @@
-Stuff goes here
+Fabio Alvarez										Sep 15, 2022
+
+A port scanner checks for open ports in a network. It does this in a variety of ways, some are meant to be quick others are for more sensitive operations. Ping scan, tcp half open, tcp connect, udp, and stealth scanning are some of the most popular ways to do this. There are also automated tools that allow you to scan ports such as nmap. Nmap is very popular and open source. It uses some of the above mentioned methods to scan for open ports. Other popular tools include Solarwinds port scanner, Netcat, and Netscan Tools. This can be very useful should the need arise to run a port scan on your network. Oftentimes administrators will run port scans to test for vulnerabilities that malicious actors might attempt to exploit. 
